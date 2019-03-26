@@ -4,7 +4,7 @@
         <StackLayout class="container" verticalAlignment="center">
           <AbsoluteLayout class="clock-container">
           <AbsoluteLayout class="clock-container__cirle" left="15" top="15">
-            <Label class="clock-container__label clock-container__label-red" text="favy" left="90" top="5" />
+            <Label class="clock-container__label clock-container__label-red" text="favy" left="85" top="5" />
             <Label class="clock-container__label" text="9" left="8" top="90" />
             <Label class="clock-container__label" text="6" left="95" top="175" />
             <Label class="clock-container__label" text="3" left="180" top="90" />
