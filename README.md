@@ -20,3 +20,10 @@ Mac
 https://play.nativescript.org
 
 にアクセス。選択画面が表示されたら、Vue.jsというのを選択。
+画面右上にPreviewというボタンがあるので、それをクリックしてQRコードを表示。
+
+スマホでPlaygroundを開き、QRコードを読み込む。
+これで、パソコン上のコードをいじりSaveするごとにスマホ上に変化が反映される。
+
+app/components/AbsoluteClock.vue
+のコードをエディターに貼り付けて、Saveを押す。
